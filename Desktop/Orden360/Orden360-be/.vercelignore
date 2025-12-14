@@ -1,0 +1,9 @@
+# Exclude tests & local files from deployment bundle
+tests/
+.venv/
+venv/
+*.pyc
+__pycache__/
+README.md
+*.md
+/.git

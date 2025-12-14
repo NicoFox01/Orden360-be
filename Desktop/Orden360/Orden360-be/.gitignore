@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Python local env
+*.env
+*.venv
+
+# Pytest
+.pytest_cache/
+
+# Editor backups
+*~
+*.swp
+
+# System files
+Thumbs.db
+Desktop.ini
