@@ -1,0 +1,26 @@
+# Dependencias y entornos
+node_modules/
+.venv/
+venv/
+
+# Entornos / secretos
+.env
+.env.local
+.env.*.local
+
+# Builds
+dist/
+.angular/
+.next/
+
+# Python e IDE
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vercel/
+
+# Sistema
+.DS_Store
+Thumbs.db
